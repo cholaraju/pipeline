@@ -20,6 +20,8 @@ function App() {
         <h1> my name is raju</h1>
         <h2> hi how r u</h2>
         <h3> hi hello</h3>
+        <input type="text" > username </input>
+        <input type="password">pwd</input>
       </header>
     </div>
   );
